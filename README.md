@@ -1,9 +1,9 @@
 # WarpWallet in python
 Implementation of WarpWallet in python. https://keybase.io/warp/
 
-Install the required packages running `pip install -r requirements.txt`  
-
 ## Usage
+
+Install the module by running `pip install warpwallet`
 
 ** Import module **
 ```
