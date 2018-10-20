@@ -1,3 +1,4 @@
+ecdsa
 pycrypto
 scrypt
-ecdsa
+pytest
